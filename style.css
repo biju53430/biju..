@@ -1,0 +1,19 @@
+#a{
+    color: rgb(240, 240, 240);
+}
+ body{
+    background-image: url('bijuu.png');
+ }
+ #b{
+    color: rgb(210, 245, 13);
+ }
+ #c{
+    color:rgb(255, 255, 255)
+ }
+ .input-box{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+button{
+    background-color: rgb(221, 70, 171);
+}
